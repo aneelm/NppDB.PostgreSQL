@@ -1,0 +1,7 @@
+C:\Users\Andres\Documents\bcS\NppDB\NppDB.PostgreSQL\obj\Debug\NppDB.PostgreSQL.csproj.AssemblyReference.cache
+C:\Users\Andres\Documents\bcS\NppDB\NppDB.PostgreSQL\obj\Debug\NppDB.PostgreSQL.frmPostgreSQLConnect.resources
+C:\Users\Andres\Documents\bcS\NppDB\NppDB.PostgreSQL\obj\Debug\NppDB.PostgreSQL.Properties.Resources.resources
+C:\Users\Andres\Documents\bcS\NppDB\NppDB.PostgreSQL\obj\Debug\NppDB.PostgreSQL.csproj.GenerateResource.cache
+C:\Users\Andres\Documents\bcS\NppDB\NppDB.PostgreSQL\obj\Debug\NppDB.PostgreSQL.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Documents\bcS\NppDB\NppDB.PostgreSQL\obj\Debug\NppDB.PostgreSQL.dll
+C:\Users\Andres\Documents\bcS\NppDB\NppDB.PostgreSQL\obj\Debug\NppDB.PostgreSQL.pdb
